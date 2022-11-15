@@ -38,3 +38,4 @@ make swagger // generate swagger documentation
 make local or docker_dev // for run docker compose files
 ```
 
+Reference: https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj
